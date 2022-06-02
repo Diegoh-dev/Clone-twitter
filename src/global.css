@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  /* variavel com tailwind */
+  background: theme("colors.backgroundColor");
+  color: theme("colors.textColor");
+}
