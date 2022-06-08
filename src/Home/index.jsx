@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { HeartIcon } from "@heroicons/react/Outline";
+import { HeartIcon } from "@heroicons/react/outline";
 import { useFormik } from "formik";
 import axios from "axios";
 
